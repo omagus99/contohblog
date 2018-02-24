@@ -12,7 +12,7 @@ twitter_username:    # Your Twitter username here
 github_username:    omagus99 # Your GitHub username here
 
 # Site Settings
-url:                https://omagus99.github.io/ # main url
+url:                https://omagus99.github.io # main url
 baseurl:            /contohblog # for gh-pages
 permalink:          /:title # Post permalink
 timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
