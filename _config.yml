@@ -13,9 +13,9 @@ github_username:    omagus99 # Your GitHub username here
 
 # Site Settings
 url:                https://omagus99.github.io/contohblog/ # main url
-baseurl:            /omagus99.github.io # for gh-pages
-permalink:          /contohblog:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+baseurl:            /contohblog # for gh-pages
+permalink:          /:title # Post permalink
+timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
 # Site Build
